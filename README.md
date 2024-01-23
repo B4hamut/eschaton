@@ -1,5 +1,7 @@
 # eschaton
 
+	- Note: This project is for educational purposes only. The use of this code for any malicious activity is strictly prohibited. I am not responsible for any misuse of this software.
+
 needs :
 - winim
 - puppy
